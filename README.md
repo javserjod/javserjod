@@ -29,7 +29,6 @@
 </p>
 
 ###
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/javierserranojodral/" target="_blank">
@@ -44,13 +43,11 @@
 </div>
 
 ###
-<br><br>
+<br>
 
 <h2 align="left">🛠 Languages, libraries and frameworks</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
@@ -68,8 +65,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="70" alt="numpy logo"  />
   <img width="20" />
@@ -82,8 +77,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="70" alt="django logo"  />
   <img width="20" />
@@ -91,7 +84,6 @@
 </div>
 
 ###
-<br>
 
 <h2 align="left">🔥   My Stats</h2>
 
