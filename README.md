@@ -25,7 +25,7 @@
 <p align="left">🎓 I'm Javier Serrano Jodral, graduated with a Bachelor's degree in Telecommunications Engineering and with a Master's degree in Biomedical Engineering, with a focus on data and software.<br><br>
   🌱 While pursuing a first job or internship, I keep acquiring new knowledge in the field and improving my skills everyday. Always striving for growth.<br><br>
   📂 Attached are some of the projects I've been working on by myself for the last few years, also including my final theses for both Bachelor's and Master's Degree as well as activities developed during my last college years.<br><br>
-  📬 Feel free to reach via any of these means:
+  📬 Feel free to reach out via any of these means:
 </p>
 
 ###
