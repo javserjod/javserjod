@@ -4,11 +4,12 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
--->
+
 
 ###
 
 <h1 align="center"> Greetings 👋</h1>
+-->
 
 ###
 <br clear="both">
@@ -28,7 +29,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=javserjod.javserjod&"  />
 </div>
 
 ###
@@ -37,7 +38,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 
 ###
